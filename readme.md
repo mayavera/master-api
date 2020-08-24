@@ -5,7 +5,7 @@ Welcome to Master App!
 The motivation behind this project is to bring together in boilerplate, key features of a professional, ready to use enterprise API. 
 
 ----------
-##Table of Content
+## Table of Contents
 
 **Requirements Management Tool**
 
